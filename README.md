@@ -1,8 +1,8 @@
-# PhosphorCV
+# TraneCV
 
 ## Welcome
-This is PhosphorCV, a machine learning library for First Tech Challenge teams.
-PhosphorCV uses the [TensorFlow](https://www.tensorflow.org/) ml platform and integrates
+This is TraneCV, a machine learning library for First Tech Challenge teams.
+TraneCV uses the [TensorFlow](https://www.tensorflow.org/) ml platform and integrates
 it into capabilities for FTC robot.
 
 ### Machine Learning Abilities
@@ -28,6 +28,6 @@ algorithims, leading to simple reuse for every game.
 ** You should see a prediction! Apply this algorithim to your teamcode using the external webcam class or phone cam class and your done!
 
 ## Contributing
-To contribute to PhosphorCV, create a pull request by forking this repository and
+To contribute to TraneCV, create a pull request by forking this repository and
 creating a new branch, instantiate an issue, or join our Discord server!
 * https://discord.gg/FtVDSW
